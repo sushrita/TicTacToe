@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="type">type</string>
+    <string name="pointmobile">pm</string>
+    <string name="pointyou">py</string>
+
+    <string name="pointfriend">pf</string>
+    <string name="pointyouf">pyf</string>
+
+    <string name="guestName">guest</string>
+
+    <string name="hurry">Hurry !!!</string>
+    <string name="enteryouname">Enter Player Name</string>
+
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="game_type">game type</string>
+
+</resources>
